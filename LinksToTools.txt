@@ -1,2 +1,6 @@
+PEAS
 https://github.com/peass-ng/PEASS-ng/releases/download/20241011-2e37ba11/winPEASany.exe
 https://github.com/peass-ng/PEASS-ng/releases/download/20241011-2e37ba11/linpeas_linux_amd64
+
+Windows priv esc database
+https://github.com/ycdxsb/WindowsPrivilegeEscalation?tab=readme-ov-file
